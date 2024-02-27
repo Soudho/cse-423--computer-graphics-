@@ -5,7 +5,6 @@ There will be diamonds falling from the top, your goal is to catch them before t
 ground. The more diamonds you catch, the greater you score. But if you miss any of the
 diamonds, your game is over. You then have to start over again.
 
-Page 8 of 16
 
 Rules:
 ● There is a catcher bowl at the bottom of the player screen, which can be moved
@@ -37,8 +36,6 @@ on the state as well. Which is, the pause icon shows when the game is in play
 state, and the play icon will show when it’s the opposite. As you can guess, in the
 paused state, the falling diamond will freeze, and you won’t be able to move the
 catcher.
-
-Page 9 of 16
 
 ● A red colored button on the right in the shape of a cross. Clicking this will print
 “Goodbye” along with your score in the console, and terminate the application.
